@@ -16,6 +16,12 @@
 
 ### 我在做的事
 
+**[Mana](https://github.com/xiixiixixi/mana)** — AI 额度的蓝条
+
+10 家 AI 平台的剩余额度钉在 macOS 菜单栏：还剩多少、什么时候回血、残血变红。终端风、纯本地、零遥测，API Key 全住 Keychain。起因很实际：agent 干活太猛，我总在猜"这条任务还发不发得出去"。现在蓝条见底我就去喝水，等它自己回血。
+
+[![release](https://img.shields.io/github/v/release/xiixiixixi/mana?style=flat&label=%E5%8F%91%E5%B8%83)](https://github.com/xiixiixixi/mana/releases) [![license](https://img.shields.io/badge/license-MIT-FF3B00?style=flat)](https://github.com/xiixiixixi/mana) [![platform](https://img.shields.io/badge/macOS-Apple_Silicon-111?style=flat)](https://github.com/xiixiixixi/mana/releases/latest)
+
 **[Sleuth](https://github.com/xiixiixixi/Sleuth)** — 让 AI 自己去做研究，而不是凭记忆瞎编
 
 一套多 Agent 搜索管线：派出 scout、search、boundary 子代理分头查证，原始记录全部落盘、交叉审计后才能合成结论。给我的 coding agent 装上眼睛和侦探帽。
