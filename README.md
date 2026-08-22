@@ -16,11 +16,11 @@
 
 ### 我在做的事
 
-**[轻截](https://github.com/xiixiixixi/qingjie)** — 一个入口的 Mac 截图工具
+**[Rune](https://github.com/xiixiixixi/rune)** — 一个入口的 Mac 截图工具
 
 ⇧⌘A 按下去，截完之后功能才出现在面前：标注、选字复制、滚动长图、连拍、贴图。区域/窗口/全屏不用提前选——拖是区域，点窗口是整窗，点桌面是全屏。本地优先，OCR 本机跑，零遥测。
 
-[![release](https://img.shields.io/github/v/release/xiixiixixi/qingjie?style=flat&label=%E5%8F%91%E5%B8%83)](https://github.com/xiixiixixi/qingjie/releases) [![license](https://img.shields.io/badge/license-BSD--3-FFB800?style=flat)](https://github.com/xiixiixixi/qingjie) [![platform](https://img.shields.io/badge/macOS-14%2B-111?style=flat)](https://github.com/xiixiixixi/qingjie/releases/latest)
+[![release](https://img.shields.io/github/v/release/xiixiixixi/rune?style=flat&label=%E5%8F%91%E5%B8%83)](https://github.com/xiixiixixi/rune/releases) [![license](https://img.shields.io/badge/license-BSD--3-FFB800?style=flat)](https://github.com/xiixiixixi/rune) [![platform](https://img.shields.io/badge/macOS-14%2B-111?style=flat)](https://github.com/xiixiixixi/rune/releases/latest)
 
 **[Mana](https://github.com/xiixiixixi/mana)** — AI 额度的蓝条
 
@@ -62,4 +62,3 @@
 ### 找到我
 
 **主要阵地** · GitHub [@xiixiixixi](https://github.com/xiixiixixi) · 这个主页本身就是 AI 写的
-
