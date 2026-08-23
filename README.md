@@ -16,6 +16,12 @@
 
 ### 我在做的事
 
+**[Suspense](https://github.com/xiixiixixi/suspense)** — 把闪念送回现场的 Mac 思维中断管理器
+
+⌥Space 截住一句突然出现的话，同时附上当时的应用、窗口、文件、网页、选中文字和下一步。念头保存后缩成一颗胶囊潜伏在屏幕边缘；回到相关现场时，它再醒过来，把资源和没做完的思路一起带回。原生 SwiftUI + AppKit，数据、录音、截图和索引都留在本机。
+
+[![status](https://img.shields.io/badge/status-private_preview-D8A7B1?style=flat)](https://github.com/xiixiixixi/suspense) [![platform](https://img.shields.io/badge/macOS-14%2B-111?style=flat)](https://github.com/xiixiixixi/suspense)
+
 **[Rune](https://github.com/xiixiixixi/rune)** — 一个入口的 Mac 截图工具
 
 ⇧⌘A 按下去，截完之后功能才出现在面前：标注、选字复制、滚动长图、连拍、贴图。区域/窗口/全屏不用提前选——拖是区域，点窗口是整窗，点桌面是全屏。本地优先，OCR 本机跑，零遥测。
