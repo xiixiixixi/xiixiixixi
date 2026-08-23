@@ -16,6 +16,12 @@
 
 ### 我在做的事
 
+**[Wisp](https://github.com/xiixiixixi/wisp)** — 给 AI 住进去的桌面文件管理器
+
+它不只显示文件，也让 AI 在当前目录里帮你搜索、理解、整理和执行操作。多标签、分栏浏览、文件预览、终端、Git 和智能体都收进同一个桌面窗口；用 Tauri 2、Rust 与 React 构建，先把 macOS 上的文件工作流重新做顺手。
+
+[![status](https://img.shields.io/badge/status-active_development-79A8D8?style=flat)](https://github.com/xiixiixixi/wisp) [![stack](https://img.shields.io/badge/stack-Tauri_2_%2B_Rust_%2B_React-7B61FF?style=flat)](https://github.com/xiixiixixi/wisp) [![license](https://img.shields.io/badge/license-AGPL--3.0-FFB800?style=flat)](https://github.com/xiixiixixi/wisp/blob/main/LICENSE)
+
 **[Suspense](https://github.com/xiixiixixi/suspense)** — 把闪念送回现场的 Mac 思维中断管理器
 
 ⌥Space 截住一句突然出现的话，同时附上当时的应用、窗口、文件、网页、选中文字和下一步。念头保存后缩成一颗胶囊潜伏在屏幕边缘；回到相关现场时，它再醒过来，把资源和没做完的思路一起带回。原生 SwiftUI + AppKit，数据、录音、截图和索引都留在本机。
