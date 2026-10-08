@@ -52,6 +52,10 @@
 
 [![license](https://img.shields.io/badge/license-MIT-07C160?style=flat)](https://github.com/xiixiixixi/dsh-weixin-clawbot) [![install](https://img.shields.io/badge/%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85-dsh_plugin_add-111?style=flat)](https://github.com/xiixiixixi/dsh-weixin-clawbot) [![channel](https://img.shields.io/badge/%E9%80%9A%E9%81%93-%E5%BE%AE%E4%BF%A1%E5%AE%98%E6%96%B9%E6%9C%BA%E5%99%A8%E4%BA%BA-4C8BF5?style=flat)](https://github.com/xiixiixixi/dsh-weixin-clawbot)
 
+**[随身听 · Pocket Podcast](https://github.com/xiixiixixi/ai-passport-podcast)** — 把 AI Passport 变成三键播客播放器
+
+三个按键，选节目、暂停续播、快进后退。网页负责订阅和缓存，护照负责收听，共用一份收听进度。后台放在自己的电脑或家庭服务器上，开着机、连着网，就能接着上次的位置听。
+
 **硬件折腾** — 让 AI 的状态看得见
 
 把三键 RGB 小键盘改成 agent 状态指示灯：哪个 AI 在思考、在写码、在等待，抬眼就知道。墨水屏负责慢的那部分 —— 天气、日程、一句今天的话。串口和蓝牙是这些小东西的血管。
